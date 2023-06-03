@@ -16,14 +16,14 @@
 
 > <b><s1> 4. ɴᴏᴡ ᴅᴇᴘʟᴏʏ</b></s1>
     <br>
-<a href='https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/afx-abu/beta-abu:latest&env[ANTI_LINK]&env[ANTILINK_ACTION]=false&env[AUDIO_DATA]=Abu MD;Abu;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg&env[BOT_INFO]=𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by Abu;917025994178;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg&env[GOODBYE_MSG]=bye bye ✅&env[HANDLERS]=.,&env[MODE]=public&env[RMBG_KEY]&env[SESSION_ID]&env[STICKER_DATA]=Abu💗&env[SUDO]=917025994178&env[KOYEB_NAME]=Abu-Jsl' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
+<a href='https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/afx-abu/beta-abu:latest&env[ANTI_LINK]&env[ANTILINK_ACTION]=false&env[AUDIO_DATA]=Abu MD;Abu;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg&env[BOT_INFO]=𝐀𝐁𝐔 𝐌𝐃  𝐁𝐎𝐓;~Jasil;Copyright by Abu;917025994178;™𝐀𝐁𝐔 𝐌𝐃;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg&env[GOODBYE_MSG]=bye bye ✅&env[HANDLERS]=.,&env[MODE]=public&env[RMBG_KEY]&env[SESSION_ID]&env[STICKER_DATA]=Abu💗&env[SUDO]=917025994178&env[KOYEB_NAME]=Abu-Jsl' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
 ***
 
 ***ғᴏʀ ᴘʟᴜɢɪɴs ᴠɪsɪᴛ***
 
 ***ᴄʟɪᴄᴋ [ᴘʟᴜɢɪɴ ʟɪsᴛ](https://github.com/Afx-ToxicLeo/abu-md-plugin-list)***
 
-## ```Heroku```
+## ```Heroku SMC ``` 
 
 > <b><s1>.ғɪʀsᴛ sᴄᴀɴ ǫʀ ᴄᴏᴅᴇ</b></s1> 
 
@@ -37,9 +37,9 @@
 ---------
 
 ###  about this bot
-- ✔️ | **Simple** 
-- ✔️ | **Button Template** 
-- ✔️ | **Insta,story,YouTube,spotify [Download]** 
+- ✔️ | **Simple** SMC
+- ✔️ | **Button Template** SMC
+- ✔️ | **Insta,story,YouTube,spotify [Download]** SMC 
 ---------
 
 
